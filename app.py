@@ -242,7 +242,7 @@ def chatbot_response(user_input):
 
 # Configuración de la página de Streamlit
 st.set_page_config(
-    page_title="Análisis Técnico Extendido de Donaciones en TikTok 📱",
+    page_title="Análisis Técnico Donaciones TikTok 📱",
     page_icon="📱",
     layout="wide",
     initial_sidebar_state="expanded",
